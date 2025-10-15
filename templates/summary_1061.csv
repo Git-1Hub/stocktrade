@@ -1,0 +1,12 @@
+side,label,schedule_ref,amount
+CHARGES,Property on hand at beginning,,
+CHARGES,Additional property received,Schedule (changes in form),
+CHARGES,Receipts during period,Schedule A,
+CHARGES,Gains on sales,Schedule B,
+CHARGES,Net income from trade/business,Schedule (if any),
+CREDITS,Disbursements during period,Schedule C,
+CREDITS,Losses on sales,Schedule D,
+CREDITS,Distributions to beneficiaries,Schedule C (dist),
+CREDITS,Net loss from trade/business,Schedule (if any),
+CREDITS,Property on hand at end (cash),Schedule E,
+CREDITS,Property on hand at end (non-cash),Schedule E,

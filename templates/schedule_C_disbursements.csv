@@ -1,0 +1,2 @@
+date,payee,description,account,amount,principal_amount,income_amount,category,court_order_ref,notes
+YYYY-MM-DD,Vendor/Beneficiary,Text,Account Name,0.00,0.00,0.00,EXP_PROP_TAX|MGMT_FEE|MORT_INT|MORT_PRIN|DIST_BEN,,

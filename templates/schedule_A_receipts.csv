@@ -1,0 +1,2 @@
+date,payor,description,account,amount,principal_amount,income_amount,category,notes
+YYYY-MM-DD,Name or source,Text,Account Name,0.00,0.00,0.00,RENT|DIV|CAP_DIST,

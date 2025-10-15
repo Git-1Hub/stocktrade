@@ -1,0 +1,2 @@
+date,security,quantity,proceeds,cost_basis,gain,lot_id,holding_period,notes
+YYYY-MM-DD,Ticker/Desc,0,0.00,0.00,0.00,lot-YYYY-MM-DD,short|long,
