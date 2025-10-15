@@ -1,0 +1,7 @@
+date,account,description,amount,code,memo,lot_id,external_ref
+2024-01-05,Checking,Rent for 123 Main St,2500.00,RENT,,,INV-100
+2024-01-07,Checking,Property management fee,-200.00,MGMT_FEE,,,
+2024-01-10,Checking,Property tax,-1200.00,EXP_PROP_TAX,,,
+2024-01-15,Checking,Mortgage interest,-800.00,MORT_INT,,,
+2024-01-15,Checking,Mortgage principal,-500.00,MORT_PRIN,,,
+2024-01-20,Checking,Transfer to brokerage,-10000.00,XFER,,,
