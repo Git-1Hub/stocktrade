@@ -1,0 +1,16 @@
+code,schedule,allocation,notes
+RENT,A,income,Rental income (§16344)
+DIV,A,income,Dividends to income by default
+CAP_DIST,A,principal,Capital distributions (§16340)
+EXP_PROP_TAX,C,income,Property tax expense (income)
+MGMT_FEE,C,income,Property management
+REPAIRS,C,income,Ordinary repairs
+INSURANCE,C,income,Insurance
+CAP_IMPROVEMENT,C,principal,Capital improvements
+MORT_INT,C,income,Mortgage interest (income)
+MORT_PRIN,C,principal,Mortgage principal (principal)
+DIST_BEN,C,principal,Distribution to beneficiary
+SELL,B/D,realize,Realized gain/loss (lots)
+XFER,FORM,exclude,Change in form of asset (§1062)
+SEC_DEP_RCVD,FORM,principal,Security deposit held (§16344)
+SEC_DEP_RETURN,C,principal,Return of deposit when obligation ends

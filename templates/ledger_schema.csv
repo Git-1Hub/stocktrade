@@ -1,0 +1,2 @@
+date,account,description,amount,code,memo,lot_id,external_ref
+YYYY-MM-DD,Checking Account,Text,1234.56,CODE,Optional,Optional,Optional
